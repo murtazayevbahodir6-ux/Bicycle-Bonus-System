@@ -1,0 +1,3 @@
+BACKUP DATABASE BicycleSystem
+TO DISK = 'C:\Backup\BicycleSystem.bak'
+WITH FORMAT, INIT;
