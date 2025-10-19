@@ -1,0 +1,4 @@
+File name:  BicycleSystem_export.bacpac
+Right-click on database → Tasks → Export Data-tier Application
+
+Choose >>> “Export to a .bacpac file”  then  .bacpac file is ready.
