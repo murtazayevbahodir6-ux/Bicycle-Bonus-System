@@ -1,4 +1,4 @@
---2 Data Mart yaratish
+
 
 CREATE OR ALTER PROCEDURE LoadStaffBonusMart    
 BEGIN
